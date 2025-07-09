@@ -31,9 +31,3 @@ This tool supports PubMed's full query syntax and is implemented in a modular wa
 
 > ✅ Requires: Python 3.8+, pip, requests, pandas
 "# PubmedPapers" 
-"# PubmedPapers" 
-"# PubmedPapers"       # Creates a README.md file
-"# PubmedPapers" 
-"# PubmedPapers" 
-"# PubmedPapers" 
-"# PubmedPapers" 
