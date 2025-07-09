@@ -30,4 +30,5 @@ This tool supports PubMed's full query syntax and is implemented in a modular wa
 ## 🛠️ Installation
 
 > ✅ Requires: Python 3.8+, pip, requests, pandas
+
 "# PubmedPapers" 
